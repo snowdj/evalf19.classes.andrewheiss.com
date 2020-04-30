@@ -84,25 +84,28 @@ lessons:
   - title: "Regression discontinuity I"
     date: "November 4"
     reading: "10-reading"
+    class: "10-class"
 
   - title: "**Problem set 8**"
     date: "November 9"
     assignment: "08-problem-set"
     
-  - title: "Regression discontinuity II & Instrumental variables I"
+  - title: "Instrumental variables I"
     date: "November 11"
     reading: "11-reading"
+    class: "11-class"
 
   - title: "**Problem set 9**"
     date: "November 16"
     assignment: "09-problem-set"
     
-  - title: "Instrumental variables II"
+  - title: "Instrumental variables II & Regression discontinuity II"
     date: "November 18"
     reading: "12-reading"
+    class: "12-class"
 
   - title: "**Problem set 10**"
-    date: "November 23"
+    date: "December 2"
     assignment: "10-problem-set"
     
   - title: '<i class="fas fa-star"></i> **Exam 2**'
@@ -111,17 +114,19 @@ lessons:
   - title: '<span class="fake-header-table">Applied evaluation</span>'
     header: True
 
-  - title: "Ethics and open science"
+  - title: "Work day"
     date: "December 2"
     reading: "13-reading"
+    class: "13-class"
 
   - title: "**Code-through due**"
     date: "December 4"
     assignment: "code-through"
 
-  - title: "Politics, feasibility, and communication"
+  - title: "Ethics and open science"
     date: "December 9"
     reading: "14-reading"
+    class: "14-class"
 
   - title: '<span class="fake-header-table">Final</span>'
     header: True
